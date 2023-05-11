@@ -3,9 +3,9 @@
  _Projet réalisé dans le cadre de la formation Data Analyst d'OpenClassrooms_
  
 ## Compétences acquises
-● Utiliser des librairies spécialisées pour les traitements data
-● Créer un environnement de développement
-● Manipuler des DataFrames
+* Utiliser des librairies spécialisées pour les traitements data
+* Créer un environnement de développement
+* Manipuler des DataFrames
 
 ## Contexte 
 
