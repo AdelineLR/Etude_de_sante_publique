@@ -1,6 +1,6 @@
 # Réaliser une étude de santé publique
 
- _Projet réalisé dans le cadre de la formation Data Analyst d'OpenClassrooms_
+ _Projet réalisé dans le cadre de la formation Data Analyst d'OpenClassrooms (Projet n°4 - Oct. 2022)_
  
 ## Compétences acquises
 * Utiliser des librairies spécialisées pour les traitements data
